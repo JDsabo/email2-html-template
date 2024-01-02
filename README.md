@@ -1,4 +1,4 @@
-<h1>Email template2 created by Sabo</h1>
+<h1>Email template2 created by Sabo</h1>r
 Responsive email layout with pretty cool modules and design, feel free to edit and use.
 <br>
 Basic HTML5 knowledge needed.
