@@ -1,7 +1,7 @@
 <h1>Email template2 created by Sabo</h1>
 Basic HTML5 knowledge needed.
 <br>
-Responsive email layout with pretty cool modules and design, feel free to edit and use.
+Responsive email layout with pretty cool modules and design, feel free to edit and use
 <br>
 <br>
 Live App: https://email2-html-template.vercel.app/
